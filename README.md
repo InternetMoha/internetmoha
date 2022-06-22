@@ -14,5 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=internetmoha&show_icons=true&locale=en" alt="internetmoha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=internetmoha&" alt="internetmoha" /></p>
-
